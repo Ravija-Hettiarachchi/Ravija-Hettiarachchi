@@ -1,7 +1,7 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
-<h1 align="center">Hi 👋, I'm Ravija Hettiarachchi</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Ravija Hettiarachchi</h1>
 <h3 align="center">A passionate Networking and Cyber security from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **BICT (Hons) degree**
