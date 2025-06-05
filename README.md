@@ -3,10 +3,15 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Ravija Hettiarachchi</h1>
 <h3 align="center">A passionate Networking and Cyber security from Sri Lanka</h3>
+<p align = right>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+
 
 - 🌱 I’m currently learning **BICT (Hons) degree**
 
 - 📫 How to reach me **hettiarachchi.ravija@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
